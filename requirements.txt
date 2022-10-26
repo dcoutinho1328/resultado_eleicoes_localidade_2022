@@ -1,0 +1,5 @@
+pandas
+xlrd
+openpyxl
+pysimplegui
+black
